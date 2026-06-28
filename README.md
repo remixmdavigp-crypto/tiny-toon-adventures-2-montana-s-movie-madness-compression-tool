@@ -6,7 +6,7 @@ a konami tiny toon adventures 2 montana's movie madness that not work with big s
 
 decompress
 
-decomp [input rom] [offset] [uncompressed size] [output file]]
+decomp [input rom] [offset] [uncompressed size] [output file]
 
 compress and insert to rom 
 
